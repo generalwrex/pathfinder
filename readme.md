@@ -1,5 +1,15 @@
-Pathfinder Online Tool
+Pathfinder Online Tool WIP
 ====
+
+The tool is located here 
+
+https://generalwrex.github.io/pathfinder/
+
+
+
+Developing
+====
+
 
 Make sure you have harp installed
 

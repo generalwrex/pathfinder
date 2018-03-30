@@ -9,7 +9,7 @@ Make sure you have harp installed
 Local Development
 ----
 To develop locally with live changes run:
-`harp server _harp`
+`harp server _src`
 
 All changes will live update to
 
@@ -21,9 +21,9 @@ Contributing
 ----
 From the git root folder, run 
 
-`harp compile _harp ./docs`
+`harp compile _src ./docs`
 
-And it will compile the files from `_harp` into clientside html,css, and js, then push the commit
+And it will compile the files from `_src` into clientside html,css, and js, then push the commit
 
 
 
